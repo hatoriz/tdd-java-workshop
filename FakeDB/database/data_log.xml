@@ -1,0 +1,4 @@
+<dataset>
+  <LOG CODE="200"  MESSAGE="success"/>
+  <LOG CODE="501"  MESSAGE="database error"/>
+</dataset>
