@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CircularBuffer/src"/>
+	<classpathentry kind="src" path="FakeDB/src"/>
+	<classpathentry kind="src" path="FizzBuzz/src"/>
+	<classpathentry kind="src" path="GetNumber/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="RomanNumber/src"/>
+	<classpathentry kind="lib" path="FakeDB/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="FakeDB/lib/dbunit-2.4.7.jar"/>
+	<classpathentry kind="lib" path="FakeDB/lib/h2-1.3.167.jar"/>
+	<classpathentry kind="lib" path="FakeDB/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="FakeDB/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="FakeDB/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="FakeDB/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
